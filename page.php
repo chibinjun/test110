@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<div>welcome to php</div>
-		<div>1223</div>
+		<div>1223添加了第二个</div>
 		<?php
            echo'<div>hello world</div>';
         ?>
